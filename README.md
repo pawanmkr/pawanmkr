@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanmkr&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmkr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanmkr" alt="pawanmkr" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pawanmkr" target="blank"><img src="https://img.shields.io/twitter/follow/pawanmkr?logo=twitter&style=for-the-badge" alt="pawanmkr" /></a> </p>
 
 - 🌱 i’m currently learning **react.js & blockchain development**
