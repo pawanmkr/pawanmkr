@@ -11,7 +11,7 @@
 
 - ⚡ some other tech. that i know a bit in past but never worked on it are **python, c/c++, mongodb, mysql, react, flutter(of course dart)**
 
-<h3>music i'm listening to</h3>
+<h3>music i listen to</h3>
 
 [![Spotify](https://novatorem-rho-blue.vercel.app/api/spotify)](https://open.spotify.com/user/er5w0v2vhso06cklxztdhg44h)
 
