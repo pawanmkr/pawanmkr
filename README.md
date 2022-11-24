@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, this is pawan</h1>
-<h3 align="center">it's quite fascinating to do college in daylight & projects in lowlight</h3>
+<h3 align="center">it's quite fascinating to do college in daylight & coding in lowlight</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanmkr&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmkr" /> </p>
 
