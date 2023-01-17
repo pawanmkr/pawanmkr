@@ -19,9 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pawanmkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawanmkr" height="30" width="40" /></a>
 <a href="https://instagram.com/pawanmkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawanmkr" height="30" width="40" /></a>
-<a href="https://medium.com/@pawanmkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pawanmkr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pawanmkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawanmkr" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pawanmkr/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pawanmkr/profile" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">languages and tools</h3>
