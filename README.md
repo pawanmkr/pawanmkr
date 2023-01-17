@@ -7,7 +7,7 @@
 
 - 📫 email **informme@zohomail.in**
 
-- 📄 reusme [https://bit.ly/resume-pawanmkr](https://bit.ly/resume-pawanmkr)
+- 📄 reusme [https://bit.ly/resume-pawanmkr](https://cumailin-my.sharepoint.com/personal/20bcs1717_cuchd_in/_layouts/15/onedrive.aspx?id=/personal/20bcs1717_cuchd_in/Documents/PAWAN_KUMAR_RESUME_updated.pdf&parent=/personal/20bcs1717_cuchd_in/Documents&ga=1)
 
 - ⚡ some other tech. that i know a bit in past but never worked on it are **python, c/c++, mongodb, mysql, react, flutter(of course dart)**
 
