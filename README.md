@@ -4,6 +4,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanmkr&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmkr" /> </p>
 
 <p align="center">
+  
+  <div align="center" margin-top="10px">
+    📫 send me an
+    <a href='mailto:informme@zohomail.in'>
+      email
+    </a>
+  </div>
+  
   <div align="center" margin-top="10px">
     📄 my updated
     <a href='https://bit.ly/resume-pawanmkr'>
@@ -15,13 +23,6 @@
     🔭 i’m currently working on 
     <a href='https://github.com/pawanmkr/chatroom'>
       chatroom
-    </a>
-  </div>
-  
-  <div align="center" margin-top="10px">
-    📫 send me an
-    <a href='mailto:informme@zohomail.in'>
-      email
     </a>
   </div>
  
@@ -81,7 +82,10 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanmkr&show_icons=true&locale=en" alt="pawanmkr" height="125px" />
   &nbsp;
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pawanmkr&show_icons=true&locale=en" height="125px"/>
+  <div align="center">
+<!--     <hr text-align="center" align="center" width="250px"> -->
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pawanmkr&show_icons=true&locale=en"     height="125px"/>
+  </div>
 </p>
 
 <p align="center" margin-top="20px">
