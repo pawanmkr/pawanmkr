@@ -29,7 +29,7 @@
   <div align="center" margin-top="10px">
     🔗 my portfolio
     <a href='http://pawanmkr.tech/'>
-      chatroom
+      portfolio
     </a>
   </div>
  
