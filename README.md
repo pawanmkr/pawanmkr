@@ -1,5 +1,4 @@
 <h1 align="center">hi 👋, this is pawan</h1>
-<h3 align="center">college in daylight & coding in lowlight</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanmkr&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmkr" /> </p>
 
@@ -7,24 +6,24 @@
   
   <div align="center" margin-top="10px">
     📫 send me an
-    <a href='mailto:informme@zohomail.in'>
+    <a href='mailto:pawanmkr.work@gmail.com'>
       email
     </a>
   </div>
   
   <div align="center" margin-top="10px">
     📄 my updated
-    <a href='https://bit.ly/resume-pawanmkr'>
+    <a href='https://drive.google.com/file/d/1k4k-O9eVq9DvH2B9k2p18nnk7nJgKrRs/view?usp=share_link'>
       resume 
     </a>
    </div>
   
-  <div align="center" margin-top="10px">
+<!--   <div align="center" margin-top="10px">
     🔭 i’m currently working on 
     <a href='https://github.com/pawanmkr/chatroom'>
       chatroom
     </a>
-  </div>
+  </div> -->
   
   <div align="center" margin-top="10px">
     🔗 my portfolio
