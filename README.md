@@ -13,7 +13,7 @@
   
   <div align="center" margin-top="10px">
     📄 my updated
-    <a href='https://drive.google.com/file/d/1k4k-O9eVq9DvH2B9k2p18nnk7nJgKrRs/view?usp=share_link'>
+    <a href='https://drive.google.com/file/d/1pRuY4C6Bjvzb1n1xAGBd9jURscKssVbe/view?usp=sharing'>
       resume 
     </a>
    </div>
