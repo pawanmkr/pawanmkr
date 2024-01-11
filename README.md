@@ -34,12 +34,12 @@
  
 </p>
 
-<h3 align="center">music I listen to</h3>
+<!-- <h3 align="center">music I listen to</h3>
 <p align="center">
   <a href="https://open.spotify.com/user/er5w0v2vhso06cklxztdhg44h">
     <img src="https://novatorem-rho-blue.vercel.app/api/spotify" alt="Spotify" />
   </a>
-</p>
+</p> -->
 
 <h3 align="center">familarity with technology & tools</h3>
 
