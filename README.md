@@ -1,41 +1,4 @@
-<p align="center">
-  
-  <!-- <div align="center" margin-top="10px">
-    📫 send me an
-    <a href='mailto:pawanmkr.work@gmail.com'>
-      email
-    </a>
-  </div>
-  
-  <div align="center" margin-top="10px">
-    📄 my updated
-    <a href='https://drive.google.com/file/d/1pRuY4C6Bjvzb1n1xAGBd9jURscKssVbe/view?usp=sharing'>
-      resume 
-    </a>
-   </div> -->
-  
-<!--   <div align="center" margin-top="10px">
-    🔭 i’m currently working on 
-    <a href='https://github.com/pawanmkr/chatroom'>
-      chatroom
-    </a>
-  </div> -->
-  
-  <!-- <div align="center" margin-top="10px">
-    🔗 my portfolio
-    <a href='http://pawanmkr.tech/'>
-      portfolio
-    </a>
-  </div> -->
- 
-</p>
-
-<!-- <h3 align="center">music I listen to</h3>
-<p align="center">
-  <a href="https://open.spotify.com/user/er5w0v2vhso06cklxztdhg44h">
-    <img src="https://novatorem-rho-blue.vercel.app/api/spotify" alt="Spotify" />
-  </a>
-</p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanmkr&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmkr" /> </p>
 
 <h3 align="center">familarity with technology & tools</h3>
 
@@ -107,8 +70,6 @@
   
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanmkr&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmkr" /> </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanmkr&show_icons=true&locale=en&layout=compact" alt="pawanmkr" height="150px"/>
   &nbsp;
@@ -118,20 +79,4 @@
 <!--     <hr text-align="center" align="center" width="250px"> -->
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pawanmkr&show_icons=true&locale=en"     height="150px"/>
   </div>
-</p>
-
-<p align="center" margin-top="20px">
-  
-  <a href="https://instagram.com/pawanmkr">
-    <img src="https://img.shields.io/badge/pawanmkr%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://twitter.com/pawanmkr">
-    <img src="https://img.shields.io/badge/pawanmkr%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/pawanmkr">
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
 </p>
