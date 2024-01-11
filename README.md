@@ -1,10 +1,6 @@
-<h1 align="center">hi 👋, this is pawan</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanmkr&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmkr" /> </p>
-
 <p align="center">
   
-  <div align="center" margin-top="10px">
+  <!-- <div align="center" margin-top="10px">
     📫 send me an
     <a href='mailto:pawanmkr.work@gmail.com'>
       email
@@ -16,7 +12,7 @@
     <a href='https://drive.google.com/file/d/1pRuY4C6Bjvzb1n1xAGBd9jURscKssVbe/view?usp=sharing'>
       resume 
     </a>
-   </div>
+   </div> -->
   
 <!--   <div align="center" margin-top="10px">
     🔭 i’m currently working on 
@@ -25,12 +21,12 @@
     </a>
   </div> -->
   
-  <div align="center" margin-top="10px">
+  <!-- <div align="center" margin-top="10px">
     🔗 my portfolio
     <a href='http://pawanmkr.tech/'>
       portfolio
     </a>
-  </div>
+  </div> -->
  
 </p>
 
@@ -111,7 +107,7 @@
   
 </p>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanmkr&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmkr" /> </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanmkr&show_icons=true&locale=en&layout=compact" alt="pawanmkr" height="150px"/>
