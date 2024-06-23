@@ -71,12 +71,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanmkr&show_icons=true&locale=en&layout=compact" alt="pawanmkr" height="150px"/>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanmkr&show_icons=true&locale=en&layout=compact" alt="pawanmkr" height="150px"/>
+  &nbsp; -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanmkr&show_icons=true&locale=en" alt="pawanmkr" height="125px" />
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanmkr&show_icons=true&locale=en" alt="pawanmkr" height="150px" />
-  &nbsp;
-  <div align="center">
-<!--     <hr text-align="center" align="center" width="250px"> -->
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pawanmkr&show_icons=true&locale=en"     height="150px"/>
-  </div>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pawanmkr&show_icons=true&locale=en"     height="125px"/>
 </p>
