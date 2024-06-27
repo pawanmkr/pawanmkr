@@ -78,7 +78,8 @@
   <img src="">
   <img src="">
   <img src="">
-  <img src=""> -->
+  <img src=""> here are all the icons // https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-orm
+  -->
 </p>
 
 <p align="center">
