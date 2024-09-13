@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanmkr&label=Profile%20views&color=0e75b6&style=flat" alt="pawanmkr" /> </p>
 
-<h3 align="center">here are some of the technology & tools that i'm familarity with</h3>
+<h3 align="center">here are some of the technology & tools that i'm familar with</h3>
 
 <p align="center">
 
